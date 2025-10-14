@@ -12,3 +12,8 @@ src/options.php
 src/report.php
 src/uninstall.php
 src/utils.php
+src/api/apifullcalendar.php
+src/api/gdpr.php
+src/api/logactions.php
+src/api/mainapi.php
+src/api/vacation.php
