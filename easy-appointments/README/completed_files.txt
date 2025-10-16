@@ -17,3 +17,16 @@ src/api/gdpr.php
 src/api/logactions.php
 src/api/mainapi.php
 src/api/vacation.php
+src/fields/appointment.php
+src/fields/tablecolumns.php
+src/services/SlotsLogic.php
+src/services/UserFieldMapper.php
+src/shortcodes/fullcalendar.php
+src/templates/admin.tpl.php
+src/templates/appointments.tpl.php
+src/templates/asp_tag_message.tpl.php
+src/templates/booking.overview.tpl.php
+src/templates/connections.tpl.php
+src/templates/customers.tpl.php
+src/templates/ea_bootstrap.tpl.php
+src/templates/ea_bootstrap_rtl.tpl.php
