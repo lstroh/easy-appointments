@@ -30,3 +30,17 @@ src/templates/connections.tpl.php
 src/templates/customers.tpl.php
 src/templates/ea_bootstrap.tpl.php
 src/templates/ea_bootstrap_rtl.tpl.php
+src/templates/help-and-support.tpl.php
+src/templates/inlinedata.sorted.tpl.php
+src/templates/inlinedata.tpl.php
+src/templates/locations.tpl.php
+src/templates/mail.cancel.tpl.php
+src/templates/mail.confirm.tpl.php
+src/templates/mail.notification.tpl.convert.php
+src/templates/mail.notification.tpl.php
+src/templates/phone.field.tpl.php
+src/templates/phone.list.tpl.php
+src/templates/publish.tpl.php
+src/templates/report.tpl.php
+src/templates/services.tpl.php
+src/templates/tools.tpl.php
