@@ -66,3 +66,10 @@ js/libs/fullcalendar/fullcalendar.css
 js/libs/fullcalendar/fullcalendar.js
 js/libs/fullcalendar/fullcalendar.min.css
 js/libs/fullcalendar/fullcalendar.min.js
+ea-blocks/ea-blocks.php
+ea-blocks/build/blocks-manifest.php
+ea-blocks/build/ea-blocks/block.json
+ea-blocks/build/ea-blocks/index.asset.php
+ea-blocks/build/ea-blocks/index.js
+ea-blocks/build/ea-blocks/view.asset.php
+ea-blocks/build/ea-blocks/view.js
