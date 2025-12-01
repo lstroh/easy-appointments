@@ -73,3 +73,13 @@ ea-blocks/build/ea-blocks/index.asset.php
 ea-blocks/build/ea-blocks/index.js
 ea-blocks/build/ea-blocks/view.asset.php
 ea-blocks/build/ea-blocks/view.js
+ea-blocks/build/ea-fullcalendar/block.json
+ea-blocks/build/ea-fullcalendar/frontend-script.asset.php
+ea-blocks/build/ea-fullcalendar/frontend-script.js
+ea-blocks/build/ea-fullcalendar/frontend.asset.php
+ea-blocks/build/ea-fullcalendar/frontend.js
+ea-blocks/build/ea-fullcalendar/index.asset.php
+ea-blocks/build/ea-fullcalendar/index.js
+ea-blocks/build/ea-fullcalendar/render.php
+ea-blocks/build/ea-fullcalendar/view.asset.php
+ea-blocks/build/ea-fullcalendar/view.js
